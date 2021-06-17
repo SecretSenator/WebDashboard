@@ -1,0 +1,113 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.container4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    text-align: left;
+    position: relative;
+}
+
+@media(max-width:768px){
+    .container4{
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    }
+    .fold{
+        height:25px;
+    }
+    .h1{
+        font-size:5px;
+    }
+  }
+
+.project{
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+    position: relative;
+   
+}
+.imgg{
+    border-radius: 15px;
+    position: relative;
+}
+.chk{
+    position: relative;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+   
+}
+.icon{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.chk2
+{ margin-top: 5px;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    align-items: left;
+    position: relative;
+   
+}
+.big{position: relative;
+    width:100;
+    position: relative;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.rec{position: relative;
+    /* margin-left: 600px; */
+    margin-left:30px;;
+    margin-top:12px;
+    display: flex;
+    align-items: right;
+}
+
+.chk3{
+    width:100%;
+    font-size: 20px;
+    position: relative;
+    display: flex;
+    text-align: left;
+   /* margin-top: 150px; */
+}
+.fab{
+    margin-right:5px;
+}
+.fas{
+    margin-right:5px;
+}
+.fold{position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+
+h1{
+    text-align: left;
+    display: flex;
+}

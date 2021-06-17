@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WebDashboard/static/css/main.e0db5357.chunk.css",
+    "main.js": "/WebDashboard/static/js/main.c0f56f6c.chunk.js",
+    "main.js.map": "/WebDashboard/static/js/main.c0f56f6c.chunk.js.map",
+    "runtime-main.js": "/WebDashboard/static/js/runtime-main.24c1732e.js",
+    "runtime-main.js.map": "/WebDashboard/static/js/runtime-main.24c1732e.js.map",
+    "static/js/2.6048012e.chunk.js": "/WebDashboard/static/js/2.6048012e.chunk.js",
+    "static/js/2.6048012e.chunk.js.map": "/WebDashboard/static/js/2.6048012e.chunk.js.map",
+    "static/js/3.ade5d193.chunk.js": "/WebDashboard/static/js/3.ade5d193.chunk.js",
+    "static/js/3.ade5d193.chunk.js.map": "/WebDashboard/static/js/3.ade5d193.chunk.js.map",
+    "index.html": "/WebDashboard/index.html",
+    "static/css/main.e0db5357.chunk.css.map": "/WebDashboard/static/css/main.e0db5357.chunk.css.map",
+    "static/js/2.6048012e.chunk.js.LICENSE.txt": "/WebDashboard/static/js/2.6048012e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24c1732e.js",
+    "static/js/2.6048012e.chunk.js",
+    "static/css/main.e0db5357.chunk.css",
+    "static/js/main.c0f56f6c.chunk.js"
+  ]
+}
